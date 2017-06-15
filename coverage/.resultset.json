@@ -232,8 +232,12 @@
       "/Users/vinshijain/RubyProject/test_app/app/helpers/application_helper.rb": [
         1,
         null
+      ],
+      "/Users/vinshijain/RubyProject/test_app/app/models/article.rb": [
+        1,
+        null
       ]
     },
-    "timestamp": 1497529805
+    "timestamp": 1497530321
   }
 }
